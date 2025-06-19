@@ -1,29 +1,44 @@
-# 👋 Hi, I'm [Prabhakar Gadhe]  
-### 🚀 Web Developer | Tech Enthusiast | Content Creator  
+# 👋 Hi, I'm Prabhakar Gadhave
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat-square)  
+🚀 software developer & Web Developer | Open Source Contributor | Tech Educator**
 
-## 🔥 About Me  
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**  
-- 🎯 Interested in **Web Development, Coding, and Blogging**  
-- 🎮 Also creating content on **Free Fire** for YouTube  
-
-## ⚡ Skills  
-- HTML, CSS, JavaScript  
-- Git & GitHub  
-- Web Development  
-
-## 📫 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/your-username)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/your-channel)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
-
-## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub)  
+🔧 With over 10 years of experience in **Front-End Development, Open Source Collaboration, and UI/UX**, I build fast, responsive, and scalable web applications. I also mentor aspiring developers and contribute to improving the open-source ecosystem.
 
 ---
-🔔 *Don't forget to star my repositories if you find them helpful!*
+
+### 👨‍💻 About Me
+
+- 💼 Full-Stack Developer | Specializing in **HTML, CSS, JavaScript, and GitHub**
+- 🔭 Currently working on open-source and building personal web projects
+- 🎯 Passionate about **clean code, technical blogging**, and **frontend architecture**
+- 🎮 Also create **Free Fire** content on YouTube to inspire young creators
+
+---
+
+### 💡 Skills & Tools
+
+| Languages       | Tools & Frameworks     | Other Skills              |
+|-----------------|------------------------|---------------------------|
+| HTML5, CSS3     | Git, GitHub            | Open Source Contributor   |
+| JavaScript      | VS Code, Chrome DevTools | Technical Writing         |
+| Responsive Design | Bootstrap, Tailwind | Content Creation (YouTube) |
+
+---
+
+### 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prabhakargadhe009)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+---
+
+### 📈 GitHub Stats
+
+> ⚠️ **Fix Needed**: Your stats and trophies aren't showing due to incorrect username in the image URLs.
+
+Use this fixed version (replace `your-username` with `prabhakargadhe009` in your README):
+
+```markdown
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabhakargadhe009&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakargadhe009&layout=compact&theme=radical)
