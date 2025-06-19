@@ -42,3 +42,7 @@ Use this fixed version (replace `your-username` with `prabhakargadhe009` in your
 ```markdown
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabhakargadhe009&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakargadhe009&layout=compact&theme=radical)
+
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="prabhakar-gadhe-634a42313" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/prabhakar-gadhe-634a42313?trk=profile-badge">Prabhakar Gadhe</a></div>
+              
