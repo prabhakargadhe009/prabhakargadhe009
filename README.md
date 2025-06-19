@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Prabhakar Gadhave
 
-🚀 software developer & Web Developer | Open Source Contributor | Tech Educator**
+🚀 software developer & Web Developer | Open Source Contributor | Tech Educator
 
-🔧 With over 10 years of experience in **Front-End Development, Open Source Collaboration, and UI/UX**, I build fast, responsive, and scalable web applications. I also mentor aspiring developers and contribute to improving the open-source ecosystem.
+🔧 With over 1 years of experience in **Front-End Development, Open Source Collaboration, and UI/UX**, I build fast, responsive, and scalable web applications. I also mentor aspiring developers and contribute to improving the open-source ecosystem.
 
 ---
 
